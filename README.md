@@ -14,3 +14,8 @@ COMPETENCIES:
 
 FEATURED LABS:
 
+Lab 1 - Creating a ticketing system; escalation practice and ticket closure checklist.
+
+. 
+
+
