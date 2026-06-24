@@ -12,9 +12,9 @@
 <br>
 
 ##### 4. As tickets are created for user they will be sort in accordance to their priority. With the high priority tickets appearing at the top of the list. 
-<img width="350" height="350" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/c68ccd87-dd1e-491e-931a-c10e9ed347a7" />
+<img width="1000" height="350" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/c68ccd87-dd1e-491e-931a-c10e9ed347a7" />
 <br>
 
 ##### 5. As a technician procceed to ask the user for additional information such as images; model number; serial numbers; etc.
-<img width="350" height="350" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/64433014-5daf-4dd2-812c-0245c85bc49a" />
+<img width="1000" height="350" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/64433014-5daf-4dd2-812c-0245c85bc49a" />
 
