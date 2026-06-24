@@ -6,8 +6,9 @@
 <img width="350" height="350" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/ffd86c32-29da-4723-bc23-78a90bade1b9" />
 <img width="350" height="350" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/005cc5ea-c626-4bb8-90f5-51b9d18a2926" />
 <br>
+
 ##### 3. After successfully creating the ticket it should appear on the ticketing system with all the required information.
-<img width="350" height="350" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/6073a487-4067-441a-9c30-20489e4f11a1" />
+<img width="1000" height="350" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/6073a487-4067-441a-9c30-20489e4f11a1" />
 <br>
 
 ##### 4. As tickets are created for user they will be sort in accordance to their priority. With the high priority tickets appearing at the top of the list. 
