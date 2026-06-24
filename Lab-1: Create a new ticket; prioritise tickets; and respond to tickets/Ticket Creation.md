@@ -2,7 +2,7 @@
 <br>
 <img width="350" height="350" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/67d967a5-a492-476d-97f4-5824ca31ac3b" />
 <br> 
----
+___
 
 ##### 2. Enter the user datails as reported and assign a technical to the ticket.
 <img width="350" height="350" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/ffd86c32-29da-4723-bc23-78a90bade1b9" />
