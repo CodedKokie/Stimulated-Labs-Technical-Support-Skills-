@@ -1,7 +1,7 @@
 ##### 1. Create a new ticket; the template will give a clean ticket that includes primary varibles to collect user information. These variables are: Organization the ticket is from; Email of the user; Summary of the issue; A detailed description of the issue; the person assigned to the ticket; priority; the category of the issue; and the images that show the issue.
 <br>
 <img width="350" height="350" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/67d967a5-a492-476d-97f4-5824ca31ac3b" />
-====
+<br> =====
 
 ##### 2. Enter the user datails as reported and assign a technical to the ticket.
 <img width="350" height="350" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/ffd86c32-29da-4723-bc23-78a90bade1b9" />
